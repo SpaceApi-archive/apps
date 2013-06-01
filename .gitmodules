@@ -16,3 +16,6 @@
 [submodule "error-page"]
 	path = error-page
 	url = git@github.com:SpaceApi/spaceapiapp_error-page.git
+[submodule "directory"]
+	path = directory
+	url = git@github.com:SpaceApi/spaceapiapp_directory.git
