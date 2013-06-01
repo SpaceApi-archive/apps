@@ -6,3 +6,9 @@ Prefix IDs and classes with your app's name. The same holds for JavaScript and P
 Don't use PHP 5.3 or 5.4 features so that the app works on hosts with PHP 5.2.
 
 TODO: it might make sense to subclass Page. $page could be overwritten or other variables that might be introduced later.
+
+Add a new app:
+
+git submodule add git@github.com:SpaceApi/spaceapiapp_<appname>.git <appname>
+git commit -m "<appname> added"
+git push origin master
