@@ -1,0 +1,18 @@
+[submodule "intro"]
+	path = intro
+	url = git@github.com:SpaceApi/spaceapiapp_intro.git
+[submodule "validator"]
+	path = validator
+	url = git@github.com:SpaceApi/spaceapiapp_validator.git
+[submodule "documentation"]
+	path = documentation
+	url = git@github.com:SpaceApi/spaceapiapp_documentation.git
+[submodule "add-your-space"]
+	path = add-your-space
+	url = git@github.com:SpaceApi/spaceapiapp_add-your-space.git
+[submodule "app"]
+	path = app
+	url = git@github.com:SpaceApi/spaceapiapp_app.git
+[submodule "error-page"]
+	path = error-page
+	url = git@github.com:SpaceApi/spaceapiapp_error-page.git
