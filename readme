@@ -12,3 +12,8 @@ Add a new app:
 git submodule add git@github.com:SpaceApi/spaceapiapp_<appname>.git <appname>
 git commit -m "<appname> added"
 git push origin master
+
+Update:
+
+git pull
+git submodule update --init --recursive
