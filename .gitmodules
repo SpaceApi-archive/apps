@@ -19,3 +19,6 @@
 [submodule "directory"]
 	path = directory
 	url = git@github.com:SpaceApi/spaceapiapp_directory.git
+[submodule "how-to-write-an-app"]
+	path = how-to-write-an-app
+	url = git@github.com:SpaceApi/spaceapiapp_how-to-write-an-app-doc.git
