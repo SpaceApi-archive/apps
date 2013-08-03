@@ -1,6 +1,8 @@
 Naming conventions
 ------------------
 
+Note: some restrictions described in this readme are no longer valid.
+
 Prefix IDs and classes with your app's name. The same holds for JavaScript and PHP functions if you don't program object-oriented. Your PHP classes should start with your app name too.
 
 Don't use PHP 5.3 or 5.4 features so that the app works on hosts with PHP 5.2.
